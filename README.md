@@ -2,7 +2,7 @@
 
 Aspiring Blockchain & Cybersecurity Professional Computer Science student @ Wilbur Wright College (Cybersecurity Track)Crypto trader | Python learner | Web3 enthusiast | Always learning
 
-🤖 About Me
+### 🤖 About Me
 
 I'm a motivated student with a passion for both cybersecurity and blockchain technologies. I started my journey in crypto as a trader and developed a strong understanding of token evaluation, decentralized exchanges (DEX), and high-volatility asset strategies. Now, I'm working on improving my programming skills with Python and expanding into Web3 development and security.
 
@@ -18,13 +18,13 @@ Automation with Python (trading tools, bots, scripts)
 
 
 
-🎓 Education
+### 🎓 Education
 
 Wilbur Wright CollegeAssociate of Applied Science in Computer Science (Cybersecurity Track)Expected Graduation: 2025GPA: 4.0
 
 
 
-🚪 Currently Learning
+### 🚪 Currently Learning
 
 Python (automation, API usage, data handling)
 
